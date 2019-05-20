@@ -19,3 +19,7 @@
     链接：https://pan.baidu.com/s/1kmL2_iSxZQpThi7h5DIHzw 
     提取码：5s9l 
 
+### 3.电子发票批量打印工具
+    链接：https://pan.baidu.com/s/1mXLQl48UDahU2ndZypjhRA 
+    提取码：ovxk 
+
