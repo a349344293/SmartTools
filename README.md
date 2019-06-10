@@ -27,5 +27,5 @@
 
 ### 4.ETC电子发票台账(综合版本)
     本工具集成提取电子发票信息转成Excel报表和批量打印功能，功能更强大
-    链接：https://pan.baidu.com/s/1QnbyHKa87MUMu2DlUPYWPg 
+    链接： https://pan.baidu.com/s/1QnbyHKa87MUMu2DlUPYWPg 
     提取码：yh75 
