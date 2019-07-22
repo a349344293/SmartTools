@@ -1,5 +1,5 @@
 # -
-# 官网： www.52fyb.site    最近因换服务器和域名，正在备案审核，预计2019年6月底正式开放，届时很多工具的最新版本都会通过官网进行推送！
+# 官网： www.52fyb.site 
 
 ## 相关资源下载
     相关资源开发背景介绍：
@@ -11,21 +11,16 @@
     链接：https://pan.baidu.com/s/1SNxS26wi_NeTr7fG0pv5YQ 
     提取码：wgzn 
 
-### 2.ETC电子发票台账(提取转Excel版本)
+### 2.ETC电子发票报销专用台账
     工具介绍：
     随着电子发票的出现和大力推行，大数据的比对监测，更是让企业会计头疼，很多会计急的抓耳挠腮也不见得找到更好的方式，每个月
     疲于整理数以百计甚至千计的电子发票！本工具软件采用先进的模式识别，在不增加任何硬件成本的基础上，自动读取发票的票面所有
     信息，同时可以自定义输出发票各项信息，灵活方便，辅助财务人员快速录入发票信息。极大地把财务人员从繁琐的信息录入工作中解
     脱出来，进一步规范了财务基础工作。
     当前版本：V1.0.0.4 2019年05月17日更新
-   链接：https://pan.baidu.com/s/1lZ1A6uWs5gmY9eIr34rbkQ 
-   提取码：bgm9 
+    链接：https://pan.baidu.com/s/17NtWRnEQKPfReY6hMmUyZg 
+    提取码：cbfo 
     
-
-### 3.ETC电子发票批量打印工具
-    链接：https://pan.baidu.com/s/1mXLQl48UDahU2ndZypjhRA 
-    提取码：ovxk 
-
 
 ### 4.ETC电子发票台账(综合版本)
     本工具集成提取电子发票信息转成Excel报表和批量打印功能，功能更强大
@@ -46,11 +41,7 @@
 # https://www.jianshu.com/p/d686664cacd1 #
 
 软件下载链接：
-    链接：https://pan.baidu.com/s/1R8Q_2HuZ5OQ_UWbqV3wHMA 
-    提取码：31uh 
-
-
-
-
+    链接：https://pan.baidu.com/s/1RmAc-_DuXKT_1nHT63N-DA 
+    提取码：x51w 
 
 # 官网： www.52fyb.site #
